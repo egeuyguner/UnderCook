@@ -1,0 +1,1 @@
+As we previously discussed at the tutor hours, due to the issue in our png image reader, we have created a global variable. Change the URL in GamePanel.java line 25 to your path for the "cbl asset" file.
